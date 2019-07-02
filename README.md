@@ -11,3 +11,12 @@ After Node.js is installed, navigate to the directory you cloned this project an
 To run the project, use this command: `node server.js`.
 
 In your preferred browser, go to: <http://localhost:3000/myPage>
+
+To reference files in index.html, drop them in the resources folder.
+
+## References
+
+If you are interested in using certs and https: <https://flaviocopes.com/express-https-self-signed-certificate/>.
+This generated cert is self-signed so your browser will warn you that it could be dangerous.
+
+For serving static resources, Express has a good guide: <https://expressjs.com/en/starter/static-files.html>.
