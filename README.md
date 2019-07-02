@@ -10,7 +10,7 @@ After Node.js is installed, navigate to the directory you cloned this project an
 
 To run the project, use this command: `node server.js`.
 
-In your preferred browser, go to: <http://localhost:3000/myPage>
+In your preferred browser, go to: <http://localhost:3000/>
 
 To reference files in index.html, drop them in the resources folder.
 
